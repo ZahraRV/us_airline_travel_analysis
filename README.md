@@ -1,4 +1,5 @@
-# us_airline_travel_analysis
+# US Airline Travel Analysis and Dashboard
+
 Analysis of US Airline travel information 1990-2024
 
 Did a quick analysis over the CSV data from US Airline travel info (includes origin and destination city, airline, airport, number of passengers and fare information) via Tableau.
